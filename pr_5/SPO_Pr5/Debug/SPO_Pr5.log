@@ -1,0 +1,4 @@
+﻿  SPO_Pr5.cpp
+C:\Users\lera1\OneDrive\Рабочий стол\Готовое СПО\Практика_5\Прога\SPO_Pr5\SPO_Pr5.cpp(31,8): warning C4101: nCount: неиспользованная локальная переменная
+C:\Users\lera1\OneDrive\Рабочий стол\Готовое СПО\Практика_5\Прога\SPO_Pr5\SPO_Pr5.cpp(64,13): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  SPO_Pr5.vcxproj -> C:\Users\lera1\OneDrive\Рабочий стол\Готовое СПО\Практика_5\Прога\Debug\SPO_Pr5.exe

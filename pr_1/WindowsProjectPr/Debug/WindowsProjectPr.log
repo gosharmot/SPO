@@ -1,0 +1,5 @@
+﻿  WindowsProjectPr.cpp
+C:\Users\lera1\OneDrive\Рабочий стол\Готовое СПО\Практика_1\Прога\WindowsProjectPr\WindowsProjectPr.cpp(97,1): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\lera1\OneDrive\Рабочий стол\Готовое СПО\Практика_1\Прога\WindowsProjectPr\WindowsProjectPr.cpp(144,1): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\lera1\OneDrive\Рабочий стол\Готовое СПО\Практика_1\Прога\WindowsProjectPr\WindowsProjectPr.cpp(168,6): warning C4101: hdc: неиспользованная локальная переменная
+  WindowsProjectPr.vcxproj -> C:\Users\lera1\OneDrive\Рабочий стол\Готовое СПО\Практика_1\Прога\Debug\WindowsProjectPr.exe
